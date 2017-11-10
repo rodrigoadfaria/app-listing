@@ -12,15 +12,16 @@ This repo is intended to be host for a sample android app which list all the app
 * Press ```ctrl + F9``` or ```Run``` to execute the application
 
 
-### What are the features? ###
-when you run the app you will be able to see the screen bellow. The icons means:
+### Which are the features? ###
+When you run the app you will be able to see the screen bellow. The icons means:
 
 **Info icon** takes to the App info settings (2nd screenshot), where you can find the Data usage preference. This is available since Android 2.3 Gingerbread (API level 9).
+
 **Wrench icon** takes to App data usage (3rd screenshot). This is only available from Android 7 Nougat (API level 25).
 
-![Alt text](/screenshots/img1.jpg?raw=true)
-![Alt text](/screenshots/img2.jpg?raw=true)
-![Alt text](/screenshots/img3.jpg?raw=true)
+![Main screen](/screenshots/img1.jpg?raw=true)
+![App info](/screenshots/img2.jpg?raw=true)
+![App data usage](/screenshots/img3.jpg?raw=true)
 
 ### Who do I talk to? ###
 You can ping me at rofaria@ime.usp.br to know more about this sample.
