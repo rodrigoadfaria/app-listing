@@ -6,7 +6,7 @@ This repo is intended to be host for a sample android app which list all the app
 1.0
 
 ### How do I get set up? ###
-* Download and install Android Studio [e(fx)clipse](https://developer.android.com/studio/index.html)
+* Download and install [Android Studio](https://developer.android.com/studio/index.html)
 * Clone this repo by ```git clone https://github.com/rodrigoadfaria/app-listing.git```
 * Open your Android Studio and go to ``File > Open`` and setup the path of the downloaded source code above
 * Press ```ctrl + F9``` or ```Run``` to execute the application
